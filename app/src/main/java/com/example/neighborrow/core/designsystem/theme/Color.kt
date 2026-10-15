@@ -1,4 +1,4 @@
-package com.example.neighborrow.ui.theme
+package com.example.neighborrow.core.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
